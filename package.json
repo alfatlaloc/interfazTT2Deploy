@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alfatlaloc/interfazTT2Deploy/issues"
   },
-  "homepage": "https://github.com/alfatlaloc/interfazTT2Deploy#readme"
+  "homepage": "https://github.com/alfatlaloc/interfazTT2Deploy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
